@@ -1,0 +1,10 @@
+
+
+
+
+
+https://github.com/son50git/Routine-with-Python.git
+
+cd ~/Library/Mobile\ "Documents/com~apple~CloudDocs/Routine Projects/time controls/Python Colab Notes"
+
+git remote add origin https://github.com/son50git/Routine-with-Python.git
